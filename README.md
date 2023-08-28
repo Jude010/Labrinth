@@ -1,2 +1,2 @@
 # Labrinth
-Basic website + DB for BigVillage Acrhictecture site
+Basic website + DB for BigVillage Archictecture site
